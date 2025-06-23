@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/selmipoters/selmipoters/main/header-github.png" alt="Hi, I'm Selmi Poters - IT Network & DevOps Engineer">
+  <img src="https://raw.githubusercontent.com/selmipoters/selmipoters/main/header-github.png" alt="Hi, I'm Selmi - IT Network, System Administrator & DevOps Engineer">
 </p>
 <h1 align="center">Hi, Saya Selmi 👋</h1>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[USERNAME_LINKEDIN_ANDA]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/selmimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:selmiselmimi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
